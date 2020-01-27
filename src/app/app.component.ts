@@ -11,8 +11,10 @@ export class AppComponent {
   title = "ng-uikit-pro-standard";
 
   ngAfterViewInit() {
+    /*
     jarallax(document.querySelectorAll(".jarallax"), {
       speed: 0.2
     });
+    */
   }
 }
