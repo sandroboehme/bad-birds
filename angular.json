@@ -137,6 +137,10 @@
               "devServerTarget": "ng-uikit-pro-standard:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }

@@ -19,6 +19,6 @@ describe('AppComponent', () => {
   it(`should have as title 'ng-uikit-pro-standard'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('ng-uikit-pro-standard');
+    expect(app.title).toEqual('NgUikitProStandard');
   });
 });
